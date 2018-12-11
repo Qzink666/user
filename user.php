@@ -22,7 +22,7 @@ $data= [
 'Dila Aas','Bili Aas','Flybird Yuan','Teri Aas',
 'Den Aas','Amin Aas','Wulan Aas','Hasan Aas','Yusri','Fachrul Ejp','ajit vepal','Agus Riyadi',
 'Agus Riyadi Riyadi','Richard Steven Try',
-'Yoviar Pauzi','Ayesha Advocate',
+'Yoviar Pauzi','Ayesha Advocate','Qzink 666 (zink)',
 //vipm
 'HARIS Denzlot','Raihan Chainago','Bejo Jo206','Bejo Rusak','Jordan Donathan','Bejo Mace','Jojo Vake','Deaso Bejo','Lungkik Cuiru','Riyan Kartika','Lusto Rusak','Jorsn Rusak','Jordwun jerdin','Curit Astjx','Hais Suis',
 //mpiv
